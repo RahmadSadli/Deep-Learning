@@ -1,5 +1,5 @@
 """
-Developed by: Rahmad Sadli
+Written by: Rahmad Sadli
 Website : https://machinelearningspace.com
 
 I finally made this program simple and readable
