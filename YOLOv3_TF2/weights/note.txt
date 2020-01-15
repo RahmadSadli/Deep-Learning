@@ -1,0 +1,5 @@
+Weights must be download form:
+
+https://pjreddie.com/media/files/yolov3.weights
+
+to this folder.
