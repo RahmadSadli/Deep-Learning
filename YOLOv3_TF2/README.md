@@ -12,5 +12,13 @@ Requirements:
 - cudnn 7.6
 - opencv 3.4
 
-Cheers
-Rahmad
+Execution:
+Download orignial weights file, yolov3.eights from official yolo website:
+https://pjreddie.com/media/files/yolov3.weights
+to folder weights.
+
+-For image:
+python image.py
+
+-For video/cam:
+python video.py
