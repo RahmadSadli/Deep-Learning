@@ -11,8 +11,8 @@ Here's the output example:
 Requirements:
 - TensorFLow 2.0
 - cudatoolkit 10.0
-- cudnn 7.6
-- opencv 3.4
+- cudnn 7.6 
+- opencv 3.4 
 
 
 Execution Steps:
