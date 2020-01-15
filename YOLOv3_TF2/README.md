@@ -18,14 +18,17 @@ Execution Steps:
 https://pjreddie.com/media/files/yolov3.weights
 to the weights folder.
 
-2. Execute convert_weights.py 
+2. Execute convert_weights.py:
+
 convert_weights.py
 
 Make sure that the weights already convert to TF2 format.
 The converted weights also stored in the weights folder.
 
 3. Test an image:
+
 python image.py
 
 4. Test video/cam:
+
 python video.py
