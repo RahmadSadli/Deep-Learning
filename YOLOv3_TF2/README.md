@@ -7,11 +7,13 @@ Here's the output example:
 
 ![Detection Example](https://machinelearningspace.com/wp-content/uploads/2020/01/val2.jpg)
 
+
 Requirements:
 - TensorFLow 2.0
 - cudatoolkit 10.0
 - cudnn 7.6
 - opencv 3.4
+
 
 Execution Steps:
 1. Download the original weights, "yolov3.weights", from:
