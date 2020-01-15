@@ -23,7 +23,7 @@ to the weights folder.
    python convert_weights.py
 
 
-Make sure that the weights already convert to TF2 format.
+Before testing, make sure that the weights already converted to TF2 format.
 The converted weights also stored in the weights folder.
 
 3. Test an image:
