@@ -16,6 +16,7 @@ Requirements:
 
 
 Execution Steps:
+
 1. Download the original weights, "yolov3.weights", from:
 https://pjreddie.com/media/files/yolov3.weights
 to the weights folder.
@@ -25,8 +26,8 @@ to the weights folder.
    python convert_weights.py
 
 
-Before testing, make sure that the weights already converted to TF2 format.
-The converted weights also stored in the weights folder.
+   Before testing, make sure that the weights already converted to TF2 format.
+   The converted weights also stored in the weights folder.
 
 3. Test an image:
 
