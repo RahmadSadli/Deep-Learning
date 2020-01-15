@@ -29,10 +29,10 @@ to the weights folder.
    Before testing, make sure that the weights have been converted to TF2 format.
    The converted weights also stored in the weights folder.
 
-3. Test an image:
+3. For image:
 
    python image.py
 
-4. Test video/cam:
+4. For video/cam:
 
    python video.py
