@@ -19,7 +19,7 @@ Execution Steps:
 
 1. Download the original weights, "yolov3.weights", from:
 https://pjreddie.com/media/files/yolov3.weights
-to the weights folder.
+to the folder weights.
 
 2. Execute the convert_weights.py:
 
