@@ -17,7 +17,7 @@ Requirements:
 
 Execution Steps:
 
-1. Download the original weights, "yolov3.weights", from:
+1. Download the "yolov3.weights", from:
 https://pjreddie.com/media/files/yolov3.weights
 to the folder weights.
 
