@@ -12,7 +12,15 @@ Requirements:
 - TensorFLow 2.0
 - cudatoolkit 10.0
 - cudnn 7.6 
-- opencv 3.4 
+- opencv 4.2
+
+If you use Anaconda these two lines will solve the Requirements.
+  For GPU users:
+     conda install -c conda-forge tensorflow-gpu=2.0
+     conda install -c conda-forge opencv
+  For CPU users:
+     conda install -c conda-forge tensorflow-gpu=2.0
+     conda install -c conda-forge opencv
 
 
 Execution Steps:
