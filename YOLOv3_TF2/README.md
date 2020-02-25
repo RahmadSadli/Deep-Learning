@@ -1,5 +1,7 @@
 # YOLO_v3_tutorial
-Accompanying code for Medium tutorial series ["The beginner’s guide to implementing YOLO (v3) in TensorFlow 2.0"](https://medium.com/@rahmadsadli/the-beginners-guide-to-implementing-yolo-v3-in-tensorflow-2-0-part-1-fcdb64b04a91)
+Accompanying code for Medium tutorial series ["The beginner’s guide to implementing YOLO (v3) in TensorFlow 2.0"](https://medium.com/@rahmadsadli/the-beginners-guide-to-implementing-yolo-v3-in-tensorflow-2-0-part-1-fcdb64b04a91) and
+
+https://machinelearningspace.com/the-beginners-guide-to-implementing-yolov3-in-tensorflow-2-0-part-1/
 
 This program has been tested on Windows 10 using Anaconda without any problem.
 
