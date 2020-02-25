@@ -35,15 +35,16 @@ Execution Steps:
 
 1. Download the "yolov3.weights", from:
 https://pjreddie.com/media/files/yolov3.weights
-to the folder weights.
+to the weights folder.
 
 2. Execute the convert_weights.py:
 
    python convert_weights.py
 
    Before testing, make sure that the weights have been converted to TF2 format.
-   The converted weights save in the weights folder.
+   The converted weights file is saved in the weights folder.
 
+#Testing
 3. For image:
 
    python image.py
@@ -51,3 +52,5 @@ to the folder weights.
 4. For video/cam:
 
    python video.py
+
+Good luck
