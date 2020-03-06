@@ -45,11 +45,12 @@ to the weights folder.
    The converted weights file is saved in the weights folder.
 
 #Testing
-3. For image:
+
+3. For the image:
 
    python image.py
 
-4. For video/cam:
+4. For the video/cam:
 
    python video.py
 
