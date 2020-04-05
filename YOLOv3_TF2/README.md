@@ -26,7 +26,7 @@ If you use Anaconda these two lines will solve the Requirements.
      
   For CPU users:
   
-     conda install -c conda-forge tensorflow-gpu=2.0
+     conda install -c conda-forge tensorflow=2.0
      
      conda install -c conda-forge opencv
 
