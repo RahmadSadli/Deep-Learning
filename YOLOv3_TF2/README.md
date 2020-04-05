@@ -1,8 +1,12 @@
 # YOLO_v3_tutorial
 Accompanying code for tutorial series:
+
 https://machinelearningspace.com/the-beginners-guide-to-implementing-yolov3-in-tensorflow-2-0-part-1/
+
 https://machinelearningspace.com/the-beginners-guide-to-implementing-yolov3-in-tensorflow-2-0-part-2/
+
 https://machinelearningspace.com/the-beginners-guide-to-implementing-yolov3-in-tensorflow-2-0-part-3/
+
 https://machinelearningspace.com/the-beginners-guide-to-implementing-yolov3-in-tensorflow-2-0-part-4/
 
 This program has been tested on Windows 10 using Anaconda without any problem.
