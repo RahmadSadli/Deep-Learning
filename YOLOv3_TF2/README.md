@@ -60,4 +60,8 @@ to the weights folder.
 
    python video.py
 
+5. Test an rtsp IP camera stream. Update the URL in camera.py to test.
+
+   python camera.py
+
 Good luck
