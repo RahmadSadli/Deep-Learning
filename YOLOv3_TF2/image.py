@@ -8,7 +8,7 @@ If you want to redistribute it, just keep the author's name.
 
 In oder to execute this program, you need to install TensorFlow 2.0 and opencv 4.x
 
-For more details about how this program works. I explained well about it, just click the link below:
+For more details about how this program works. I explained well about it, just click on the link below:
 https://machinelearningspace.com/the-beginners-guide-to-implementing-yolo-v3-in-tensorflow-2-0-part-1/
 
 Credit to:
